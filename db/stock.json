@@ -7,6 +7,6 @@
   {"id":6,"name":"Tumbler","img":"item/tumbler.jpg","type":"digital","brand":"","price":100,"txprice":"each","inStock":true,"isNew":false},
   {"id":7,"name":"Invitations","img":"item/inv.jpg","type":"digital","brand":"","price":50,"txprice":"each","inStock":false,"isNew":true},
   {"id":8,"name":"Poster","img":"item/poster.jpg","type":"digital","brand":"","price":50,"txprice":"each","inStock":true,"isNew":false},
-  {"id":9,"name":"Sticker","img":"item/sticker.jpg","type":"giveaways","brand":"","price":120,"txprice":"Performance","inStock":true,"isNew":true},
+  {"id":9,"name":"Sticker","img":"item/sticker.jpg","type":"giveaways","brand":"","price":120,"txprice":"each","inStock":true,"isNew":true},
   {"id":10,"name":"Tarpaulin","img":"item/tarp.jpg","type":"software","brand":"","price":30,"txprice":"/sq. foot free layout","inStock":true,"isNew":false}
 ]
